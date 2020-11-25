@@ -9,8 +9,6 @@ main.appendChild(p)
 let player = document.createElement('div')
 player.className = 'player';
 
-let audio = new Audio('audio_file.mp3');
-audio.play();
 
 
 
