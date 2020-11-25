@@ -1,0 +1,56 @@
+main {
+    width: calc(13*48px);
+    height: calc(11*46px);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+p {
+    display: flex;
+    flex-wrap: wrap;
+    width: calc(13*48px);
+    height: calc(11*46px);
+}
+
+.wall {
+    width : 46px;
+    height : 46px;
+    background-color: #E18B2D;
+    border: 1px solid white;
+}
+
+.path {
+    width : 46px;
+    height : 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('./media/route.png');
+    border: 1px solid white;
+}
+
+.start {
+    width : 46px;
+    height : 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    border: 1px solid white;
+}
+
+.finish {
+    width : 46px;
+    height : 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('./media/finish.png');
+    border: 1px solid white;
+}
+
+.player {
+    width : 46px;
+    height : 46px;
+    background-image: url('./media/car.png');
+}
