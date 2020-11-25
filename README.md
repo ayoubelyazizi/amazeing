@@ -30,7 +30,7 @@ I created an html file that i linked with a javascript file and then i've never 
 
 ## Preview :
 
-![Preview](./media/preview.JPG)
+![Preview](./media/preview.jpg)
 
 ## Github Pages Link :
 [Pages](https://ayoubelyazizi.github.io/amazeing/)
